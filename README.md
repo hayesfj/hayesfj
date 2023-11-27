@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hayesfj
+- 👋 Hi, I’m @hayesfj  Frank Hayes
 - 👀 I’m interested in Python, SQL, Excel, and Monte Carlo simulation
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on Decision Analysis
