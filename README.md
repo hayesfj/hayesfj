@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hayesfj
-- 👀 I’m interested in Python, Excel, and Monte Carlo simulation
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python, SQL, Excel, and Monte Carlo simulation
+- 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on Decision Analysis
 - 📫 How to reach me ...
 
